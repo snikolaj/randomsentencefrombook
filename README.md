@@ -1,10 +1,10 @@
 # randomsentencefrombook
-Generates 100 random sentences from a text file provided, eliminating words under 6 letters and weighing them by occurrence
-Works on Visual C++
-Requires text file named zarathustra.txt, but can be changed
-Sample sentences from Thus Spoke Zarathustra:
-
-
+Generates 100 random sentences from a text file provided, eliminating words under 6 letters and weighing them by occurrence.\
+Works on Visual C++.\
+Requires text file named zarathustra.txt, but can be changed.\
+Sample sentences from Thus Spoke Zarathustra:\
+\
+\
 Spirit whoever selfishness however spirit passions something misfortune against contempt noontide especially wished called.
 Master nothing became seeking knowest immediately smaller.
 Integrated changeable speaketh torture people marriage called became creature.
